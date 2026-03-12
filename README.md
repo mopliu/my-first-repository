@@ -1,1 +1,2 @@
-# my-first-repository
+# 我的第一个 GitHub 仓库
+这是我跟着教程创建的第一个仓库，今天是 2026年3月12日，我成功上手 GitHub 啦！
